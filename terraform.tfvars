@@ -4,7 +4,7 @@
 company     = "kopicloud"
 app_name    = "iaas"
 environment = "development"
-location    = "northeurope"
+location    = "centralus"
 
 ###########
 # Network #
